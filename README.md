@@ -14,7 +14,7 @@ Actualmente estoy inmerso en el mundo de la programación en 42 Madrid, donde es
 ---
 
 ### 🔧 Mis herramientas favoritas  
-- **Lenguajes:** C, JavaScript, HTML/CSS.  
+- **Lenguajes:** Python, C, JavaScript, HTML/CSS.  
 - **Frameworks:** Express, Mongoose, JWT, y más.  
 - **Entornos:** Linux, Vite, Node.js.  
 - **Control de versiones:** Git y GitHub.  
