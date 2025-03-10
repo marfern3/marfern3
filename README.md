@@ -37,6 +37,6 @@ Actualmente estoy inmerso en el mundo de la programación en 42 Madrid, donde es
 
 ### 📫 ¡Conecta conmigo!  
 [📧 Envíame un email](mailto:marco.fernandezcallejon@hotmail.com)  
-[🔗 LinkedIn]([https://linkedin.com/in/marco-fernandez-callejon](https://www.linkedin.com/in/marco-fernandez-12b061343/))  
+[🔗 LinkedIn]([https://linkedin.com/in/marco-fernandez-callejon](https://www.linkedin.com/in/marco-fernandez-12b061343/)](https://www.linkedin.com/in/marcofer3/))  
 
 ✨ _Gracias por visitar mi perfil. ¡Explora mis repositorios y proyectos!_  
