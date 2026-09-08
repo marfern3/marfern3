@@ -16,8 +16,11 @@ My focus right now is **offensive cybersecurity**: **eJPT** certified, preparing
 ---
 
 ### 🛠️ Featured projects
+
 - **[vuln-config-analyzer](https://github.com/marfern3/vuln-config-analyzer)** — CLI tool that detects security misconfigurations on Linux (SSH, firewall, permissions) using a local LLM via Ollama.
 - **[attack-surface-mapper](https://github.com/marfern3/attack-surface-mapper)** — Reconnaissance tool that maps a domain's attack surface: subdomains (crt.sh + wordlist), open ports, technology fingerprinting, with an HTML report.
+- **[phishing-url-classifier](https://github.com/marfern3/phishing-url-classifier)** — Phishing URL classifier trained on ~550k real URLs using a Random Forest and custom lexical features.
+- **[trash-classifier](https://github.com/marfern3/trash-classifier)** — Recyclable waste image classifier using transfer learning (MobileNetV2) — 81.8% validation accuracy on TrashNet.
 
 ---
 
