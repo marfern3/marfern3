@@ -36,7 +36,6 @@ My focus right now is **offensive cybersecurity**: **eJPT** certified, preparing
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=marfern3&theme=github_dark" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=marfern3&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marfern3&theme=github_dark&utcOffset=1" />
 </p>
 
