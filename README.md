@@ -5,10 +5,13 @@ My focus right now is **offensive cybersecurity**: **eJPT** certified, preparing
 ---
 
 ### 🔧 What I work with
-- **Security:** pentesting, HTB Academy/machines, vulnerability analysis, recon
-- **AI / ML:** TensorFlow, data pipelines, production models
-- **Backend & scripting:** Python, C
-- **Environments:** Linux, Parrot Security OS, VMware, HTB Pwnbox
+- **Offensive Security:** Penetration testing, vulnerability assessment, reconnaissance, HTB Academy modules & machines, exploit development basics
+- **AI / ML:** TensorFlow, end-to-end ML pipelines, model deployment in production, working toward integrating LLMs into security tooling (local models via Ollama)
+- **Programming & Scripting:** Python (primary), C, Bash
+- **Systems & Networking:** Linux administration, network configuration, firewall/SSH hardening, VMware virtualization
+- **Environments & OS:** Parrot Security OS, HTB Pwnbox, Windows, Linux
+- **Dev Tools:** VS Code, Git/GitHub, virtual environments, Qiskit (for quantum computing exploration)
+- **Productivity & Notes:** Notion, Obsidian (technical documentation, structured notetaking)
 
 ---
 
